@@ -202,6 +202,8 @@ section.form, section.info{
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    text-align: left;
+    color: #555;
 }
 
 .sixhun input, .sixhun textarea {

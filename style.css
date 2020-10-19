@@ -54,7 +54,7 @@ h1.gal {
   margin: 0;
 }
 
-section {
+section.gallery {
   -webkit-column-width: 300px;
      -moz-column-width: 300px;
           column-width: 300px;
@@ -64,7 +64,7 @@ section {
   padding: 5px;
 }
 
-section img {
+section.gallery img {
   width: 100%;
   cursor: pointer;
 }
@@ -191,6 +191,18 @@ section img {
 }
 
 /* gallery end */
+
+/* info form start */
+
+section.form, section.info{    
+    text-align: center
+}
+
+div.600{
+  max-width: 600px
+}
+
+/* info form end */
 
 /* footer start */
 

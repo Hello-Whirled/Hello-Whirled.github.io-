@@ -224,6 +224,10 @@ section.form, section.info{
   height: 200px;
 }
 
+.form-required{
+  color:#f27935;
+}
+
 /* info form end */
 
 /* footer start */

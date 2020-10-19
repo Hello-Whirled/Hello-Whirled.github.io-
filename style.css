@@ -199,7 +199,9 @@ section.form, section.info{
 }
 
 div.sixhun{
-  max-width: 600px
+  max-width: 600px;
+margin-left: auto;
+margin-right: auto;
 }
 
 /* info form end */

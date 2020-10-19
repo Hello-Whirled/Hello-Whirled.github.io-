@@ -198,10 +198,28 @@ section.form, section.info{
     text-align: center
 }
 
-div.sixhun{
-  max-width: 600px;
-margin-left: auto;
-margin-right: auto;
+.sixhun{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sixhun input, .sixhun textarea {
+    display: block;
+    margin: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px #eee inset;
+    height: 30px;
+    resize: vertical;
+    color: #000;
+    padding: 2px 3px;
+    font-size: 13px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.sixhun textarea {
+  height: 200px;
 }
 
 /* info form end */

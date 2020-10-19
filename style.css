@@ -47,6 +47,8 @@ nav.menu {
 
 /* menu end */
 
+/* gallery start */
+
 h1.gal {
   font-weight: 100;
   margin: 0;
@@ -187,6 +189,8 @@ section img {
   top: 0;
   left: 0;
 }
+
+/* gallery end */
 
 /* footer start */
 

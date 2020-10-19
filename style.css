@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background: #f4f3ee;
+  background: rgb(251,251,249);
+background: linear-gradient(90deg, rgba(251,251,249,1) 0%, rgba(244,243,238,1) 50%, rgba(251,251,249,1) 100%);
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
@@ -15,7 +16,6 @@ nav.menu * {
 }
 
 nav.menu {
-  background: #fbfbf9;
   padding: 25px;
   text-align: center;
   font-family: "Oswald", sans-serif;

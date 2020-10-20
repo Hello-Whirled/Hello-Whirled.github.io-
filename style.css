@@ -218,6 +218,10 @@ section.form, section.info{
     color: #d35400;
 }
 
+.sixhun img {
+    max-width: 100%;
+}
+
 .sixhun input, .sixhun textarea {
     box-sizing: border-box;
     display: block;

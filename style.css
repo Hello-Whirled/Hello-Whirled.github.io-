@@ -220,6 +220,8 @@ section.form, section.info{
 
 .sixhun img {
     max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .sixhun input, .sixhun textarea {

@@ -246,6 +246,17 @@ textarea:focus, textarea:active, input:active, input:focus {
   color:#f27935;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0px;
+}
+
+div.captcha {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+
 .sixhun .right {
   text-align: right; 
 }

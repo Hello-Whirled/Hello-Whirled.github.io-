@@ -224,8 +224,30 @@ section.form, section.info{
   height: 200px;
 }
 
-.form-required{
+.form-required {
   color:#f27935;
+}
+
+.sixhun .right {
+  text-align: right; 
+}
+
+.sixhun button {
+    background: #f27935;;
+    background: rgba(242, 121, 53, 1);
+    border: none;
+    color: #fbfbf9;
+    font-size: 19px;
+    font-size: 1.2em;
+    padding: 8px 16px;
+    padding: .5em 1em;
+    border-radius: 5px;
+}
+
+.sixhun button:hover{
+    background: rgba(0, 0, 0, 0.4);
+    background: #d35400;
+    color: #fff;
 }
 
 /* info form end */

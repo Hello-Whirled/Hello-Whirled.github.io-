@@ -233,6 +233,11 @@ section.form, section.info{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+textarea:focus, textarea:active, input:active, input:focus {
+    outline: none !important;
+    box-shadow: 0 0 10px #ccc;
+}
+
 .sixhun textarea {
   height: 200px;
 }
